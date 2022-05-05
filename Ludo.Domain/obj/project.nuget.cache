@@ -1,11 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "13Qk291ltjSsO9KsZpRJjGubRUN8e9rHsV2zfZGPhfmYOfElhrE4zXKAT/cLYMlrwR1IZm6jubr/XTqBcgQKEg==",
+  "dgSpecHash": "bUMow1RsG6oIVJ8OxbT+6foYRvavA8xMeqEv6wlKqNx6DyPppVsrnYWYiR3WNFz6xaUzS7pfk6RT5DS2krW2Cw==",
   "success": true,
   "projectFilePath": "D:\\Documents\\Sogyo\\Ludo-Csharp\\Ludo.Domain\\Ludo.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\eaeva\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512",
-    "C:\\Users\\eaeva\\.nuget\\packages\\stylecop.msbuild\\6.2.0\\stylecop.msbuild.6.2.0.nupkg.sha512"
+    "C:\\Users\\eaeva\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
   ],
   "logs": []
 }

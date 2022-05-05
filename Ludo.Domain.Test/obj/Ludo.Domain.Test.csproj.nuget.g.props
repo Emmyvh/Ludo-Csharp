@@ -21,7 +21,6 @@
     <Import Project="$(NuGetPackageRoot)microsoft.net.test.sdk\17.1.0\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.props" Condition="Exists('$(NuGetPackageRoot)microsoft.net.test.sdk\17.1.0\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.props')" />
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <PkgStyleCop_MSBuild Condition=" '$(PkgStyleCop_MSBuild)' == '' ">C:\Users\eaeva\.nuget\packages\stylecop.msbuild\6.2.0</PkgStyleCop_MSBuild>
     <PkgStyleCop_Analyzers Condition=" '$(PkgStyleCop_Analyzers)' == '' ">C:\Users\eaeva\.nuget\packages\stylecop.analyzers\1.1.118</PkgStyleCop_Analyzers>
     <PkgReportGenerator Condition=" '$(PkgReportGenerator)' == '' ">C:\Users\eaeva\.nuget\packages\reportgenerator\5.1.6</PkgReportGenerator>
     <PkgOpenCover Condition=" '$(PkgOpenCover)' == '' ">C:\Users\eaeva\.nuget\packages\opencover\4.7.1221</PkgOpenCover>

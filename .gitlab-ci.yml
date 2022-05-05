@@ -1,11 +1,8 @@
-image: mcr.microsoft.com/dotnet/core/sdk:3
+image: mcr.microsoft.com/dotnet/core/sdk:6
 
 stages:
     - build
     - test
-
-variables:
-    test: "Example.Test"
 
 build:
     stage: build
@@ -16,5 +13,4 @@ build:
 test:
     stage: test
     script:
-        - "cd $test"
         - "dotnet test"

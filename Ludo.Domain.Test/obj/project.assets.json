@@ -419,12 +419,6 @@
       "StyleCop.Analyzers/1.1.118": {
         "type": "package"
       },
-      "StyleCop.MSBuild/6.2.0": {
-        "type": "package",
-        "build": {
-          "build/StyleCop.MSBuild.targets": {}
-        }
-      },
       "System.Collections/4.0.11": {
         "type": "package",
         "dependencies": {
@@ -2159,37 +2153,6 @@
         "stylecop.analyzers.nuspec",
         "tools/install.ps1",
         "tools/uninstall.ps1"
-      ]
-    },
-    "StyleCop.MSBuild/6.2.0": {
-      "sha512": "6J51Kt5X+Os+Ckp20SFP1SlLu3tZl+3qBhCMtJUJqGDgwSr4oHT+eg545hXCdp07tRB/8nZfXTOBDdA1XXvjUw==",
-      "type": "package",
-      "path": "stylecop.msbuild/6.2.0",
-      "hasTools": true,
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "build/StyleCop.MSBuild.targets",
-        "license.txt",
-        "stylecop.msbuild.6.2.0.nupkg.sha512",
-        "stylecop.msbuild.nuspec",
-        "tools/CustomDictionary.en-GB.xml",
-        "tools/CustomDictionary.en-US.xml",
-        "tools/CustomDictionary.xml",
-        "tools/Settings.StyleCop",
-        "tools/StyleCop.CSharp.Rules.dll",
-        "tools/StyleCop.CSharp.dll",
-        "tools/StyleCop.SettingsEditor.exe",
-        "tools/StyleCop.dll",
-        "tools/de-DE/StyleCop.CSharp.Rules.resources.dll",
-        "tools/en-GB/StyleCop.CSharp.Rules.resources.dll",
-        "tools/es-MX/StyleCop.CSharp.Rules.resources.dll",
-        "tools/fr-FR/StyleCop.CSharp.Rules.resources.dll",
-        "tools/mssp7en.dll",
-        "tools/mssp7en.lex",
-        "tools/pl-PL/StyleCop.CSharp.Rules.resources.dll",
-        "tools/pt-BR/StyleCop.CSharp.Rules.resources.dll",
-        "tools/ru-RU/StyleCop.CSharp.Rules.resources.dll"
       ]
     },
     "System.Collections/4.0.11": {
@@ -4236,8 +4199,7 @@
       "NUnit3TestAdapter >= 4.2.1",
       "OpenCover >= 4.7.1221",
       "ReportGenerator >= 5.1.6",
-      "StyleCop.Analyzers >= 1.1.118",
-      "StyleCop.MSBuild >= 6.2.0"
+      "StyleCop.Analyzers >= 1.1.118"
     ]
   },
   "packageFolders": {
@@ -4308,12 +4270,6 @@
             "suppressParent": "All",
             "target": "Package",
             "version": "[1.1.118, )"
-          },
-          "StyleCop.MSBuild": {
-            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-            "suppressParent": "All",
-            "target": "Package",
-            "version": "[6.2.0, )"
           }
         },
         "imports": [

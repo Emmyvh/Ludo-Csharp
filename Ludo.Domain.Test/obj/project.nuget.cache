@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "bonp9kbBs9vdQVxkC0KwjegFBcFK/uXrKqsUyYc+BzxGrpDa13XDcI2iHC2oPWBEsQS0R4mmn74IUTcj23Y6UA==",
+  "dgSpecHash": "J3E38rb3GMk0VeRMpzOscDoir0aCCYqI1/WK0dhpkMM3BNbZUOwYzNTST4XkiQ9/xJu7jPVXDT+uOdsQq8ICJg==",
   "success": true,
   "projectFilePath": "D:\\Documents\\Sogyo\\Ludo-Csharp\\Ludo.Domain.Test\\Ludo.Domain.Test.csproj",
   "expectedPackageFiles": [
@@ -19,7 +19,6 @@
     "C:\\Users\\eaeva\\.nuget\\packages\\opencover\\4.7.1221\\opencover.4.7.1221.nupkg.sha512",
     "C:\\Users\\eaeva\\.nuget\\packages\\reportgenerator\\5.1.6\\reportgenerator.5.1.6.nupkg.sha512",
     "C:\\Users\\eaeva\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512",
-    "C:\\Users\\eaeva\\.nuget\\packages\\stylecop.msbuild\\6.2.0\\stylecop.msbuild.6.2.0.nupkg.sha512",
     "C:\\Users\\eaeva\\.nuget\\packages\\system.collections\\4.0.11\\system.collections.4.0.11.nupkg.sha512",
     "C:\\Users\\eaeva\\.nuget\\packages\\system.diagnostics.debug\\4.0.11\\system.diagnostics.debug.4.0.11.nupkg.sha512",
     "C:\\Users\\eaeva\\.nuget\\packages\\system.diagnostics.tools\\4.0.1\\system.diagnostics.tools.4.0.1.nupkg.sha512",
