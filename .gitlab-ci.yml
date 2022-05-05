@@ -7,13 +7,10 @@ stages:
 variables:
     test: "Example.Test"
 
-before_script:
-    - "cd src"
-    - "dotnet restore"
-
 build:
     stage: build
     script:
+        - "dotnet restore"
         - "dotnet build"
 
 test:
