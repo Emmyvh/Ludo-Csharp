@@ -1,0 +1,12 @@
+D:\Documents\Sogyo\Ludo-Csharp\Ludo.Domain\bin\Debug\net6.0\Ludo.Domain.deps.json
+D:\Documents\Sogyo\Ludo-Csharp\Ludo.Domain\bin\Debug\net6.0\Ludo.Domain.dll
+D:\Documents\Sogyo\Ludo-Csharp\Ludo.Domain\bin\Debug\net6.0\Ludo.Domain.pdb
+D:\Documents\Sogyo\Ludo-Csharp\Ludo.Domain\obj\Debug\net6.0\Ludo.Domain.csproj.AssemblyReference.cache
+D:\Documents\Sogyo\Ludo-Csharp\Ludo.Domain\obj\Debug\net6.0\Ludo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Sogyo\Ludo-Csharp\Ludo.Domain\obj\Debug\net6.0\Ludo.Domain.AssemblyInfoInputs.cache
+D:\Documents\Sogyo\Ludo-Csharp\Ludo.Domain\obj\Debug\net6.0\Ludo.Domain.AssemblyInfo.cs
+D:\Documents\Sogyo\Ludo-Csharp\Ludo.Domain\obj\Debug\net6.0\Ludo.Domain.csproj.CoreCompileInputs.cache
+D:\Documents\Sogyo\Ludo-Csharp\Ludo.Domain\obj\Debug\net6.0\Ludo.Domain.dll
+D:\Documents\Sogyo\Ludo-Csharp\Ludo.Domain\obj\Debug\net6.0\refint\Ludo.Domain.dll
+D:\Documents\Sogyo\Ludo-Csharp\Ludo.Domain\obj\Debug\net6.0\Ludo.Domain.pdb
+D:\Documents\Sogyo\Ludo-Csharp\Ludo.Domain\obj\Debug\net6.0\ref\Ludo.Domain.dll

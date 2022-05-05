@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ludo.Domain", "Ludo.Domain\Ludo.Domain.csproj", "{493E8011-6D2C-4EE8-91C9-ABDB8E4E8064}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ludo.Domain.Test", "Ludo.Domain.Test\Ludo.Domain.Test.csproj", "{BA0BF053-B769-4B4F-B4C0-90466F4CCE51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{493E8011-6D2C-4EE8-91C9-ABDB8E4E8064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{493E8011-6D2C-4EE8-91C9-ABDB8E4E8064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{493E8011-6D2C-4EE8-91C9-ABDB8E4E8064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{493E8011-6D2C-4EE8-91C9-ABDB8E4E8064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA0BF053-B769-4B4F-B4C0-90466F4CCE51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA0BF053-B769-4B4F-B4C0-90466F4CCE51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA0BF053-B769-4B4F-B4C0-90466F4CCE51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA0BF053-B769-4B4F-B4C0-90466F4CCE51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDF8FD29-DA2B-48E0-B082-12503827D955}
+	EndGlobalSection
+EndGlobal
